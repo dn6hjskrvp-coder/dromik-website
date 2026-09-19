@@ -1,7 +1,7 @@
 :root {
-  --blue: #011592;
-  --gold: #f2ad43;
-  --white: #ffffff;
+  --blue: #0B1F5E;
+  --gold: #E8A23A;
+  --white: #FFFFFF;
 }
 
 * {
@@ -171,6 +171,7 @@ h1 strong {
 
 
 
+
 @media (min-width: 701px) {
 
   .mik {
@@ -227,4 +228,3 @@ h1 strong {
   }
 
 }
-
